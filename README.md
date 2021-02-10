@@ -1,3 +1,3 @@
-# netuitive.packages.aws.sqs
+# CloudWisdom.packages.aws.sqs
 
 For detailed information on this package, please refer to the [online documentation](https://docs.virtana.com/en/aws.html).
